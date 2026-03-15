@@ -14,4 +14,4 @@ Learn more about my background, professional journey, and the unique value I bri
 
 ---
 ## Artifacts
-- [Auto Guardian AI – The Auto Problem Fix](artifact/AutoGuardianAI.md)
+- [Auto Guardian AI – The Auto Problem Fix](artifact/AutoGuardianAI/AutoGuardianAI)
