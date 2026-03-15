@@ -68,6 +68,10 @@ This artifact is particularly relevant to my professional background as a **Seni
 
 The project demonstrates how AI can support smarter diagnostics, improve decision-making, and potentially reduce repair costs and downtime for vehicle owners. It also reflects my broader interest in applying artificial intelligence to real-world engineering challenges.
 
+## Powerpoint Presentation Overview
+
+[Auto Guardian Ai.ppt](artifact/AutoGuardianAI/Auto%20Guardian%20AI.pptx)
+
 ## References
 Interaction Design Foundation. (2024). *5 Stages in the Design Thinking Process*.  
 https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process  
