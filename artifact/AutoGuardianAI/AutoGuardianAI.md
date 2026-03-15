@@ -8,6 +8,12 @@ title: Artifact 1 – Auto Guardian AI
 ## Introduction
 Auto Guardian AI is a conversational AI tool designed to help drivers quickly understand and respond to vehicle diagnostic issues. The system assists users in interpreting vehicle diagnostic codes and translates technical automotive data into simple, actionable guidance. The goal of the project is to reduce the stress and uncertainty drivers experience when warning lights appear by providing clear recommendations and possible next steps.
 
+## Live Chatbot Demo
+
+You can interact with the Auto Guardian AI chatbot here:
+
+[Launch Auto Guardian AI](https://mizou.com/login-thread?ID=MSofEjnBfbCRblBJYsJwYFgP6g_uigISQ5e9haKtjx8-119576)
+
 ## Description
 Auto Guardian AI is a prototype chatbot developed to assist drivers, DIY mechanics, and small automotive shops in diagnosing vehicle issues. The system allows users to input vehicle information and diagnostic trouble codes, after which the AI analyzes the information and provides explanations, potential causes, and recommended diagnostic actions.
 
