@@ -10,7 +10,7 @@ The artifacts included in this portfolio highlight my learning process, technica
 ## About Me
 Learn more about my background, professional journey, and the unique value I bring.
 
-[Professional Bio & Personal Value Proposition](aboutMe.md)
+[Professional Bio & Personal Value Proposition](aboutMe)
 
 ---
 ## Artifacts
