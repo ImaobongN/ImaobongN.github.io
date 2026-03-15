@@ -70,7 +70,7 @@ The project demonstrates how AI can support smarter diagnostics, improve decisio
 
 ## Powerpoint Presentation Overview
 
-[Auto Guardian Ai.ppt](artifact/AutoGuardianAI/Auto%20Guardian%20AI.pptx)
+[Auto Guardian Ai.ppt](Auto%20Guardian%20AI.pptx)
 
 ## References
 Interaction Design Foundation. (2024). *5 Stages in the Design Thinking Process*.  
