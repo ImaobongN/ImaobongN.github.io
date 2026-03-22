@@ -15,3 +15,4 @@ Learn more about my background, professional journey, and the unique value I bri
 ---
 ## Artifacts
 - [Auto Guardian AI – The Auto Problem Fix](artifact/AutoGuardianAI/AutoGuardianAI)
+- [Machine Learning vs Deep Learning Applications](uto%20Guardian%20AI.pptx)
