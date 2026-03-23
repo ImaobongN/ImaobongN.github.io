@@ -1,82 +1,184 @@
 ---
 layout: default
-title: Artifact 2 – Applications of Machine Learning and Deep Learning in Real World Scenarios
+title: Machine Learning vs Deep Learning: Real-World Applications and Decision Framework
 ---
 
-# Applications of Machine Learning and Deep Learning in Real World Scenarios
+# 🚀 Machine Learning vs Deep Learning: Real-World Applications
 
-## Introduction
-This artifact explores the practical differences between machine learning and deep learning through real-world examples. The goal is to demonstrate how each approach is best suited for specific types of problems based on the nature of the data and complexity of the task.
+## 🧩 The Problem
 
-## Report
-You can access report here:
+When building AI solutions, one key question always comes up:
 
-[Machine Learning vs Deep Learning Applications](Assignment_2.3.docx)
+**Should I use Machine Learning or Deep Learning?**
 
+Choosing the wrong approach can lead to:
+- unnecessary complexity  
+- poor performance  
+- wasted resources  
 
-## Description
-Machine learning and deep learning are both important areas of artificial intelligence, but they are used differently depending on the problem. Machine learning works best with structured data, while deep learning is more effective for unstructured data such as images, speech, and video (Sharifani & Amini, 2023).
+This project explores how to make the **right decision** based on real-world scenarios.
 
-Another key difference is that deep learning can automatically learn features from raw data, while traditional machine learning depends on human-selected features (Chauhan & Singh, 2018). This artifact uses two real-world examples to highlight these differences.
+---
 
-## Objective
-The objective of this artifact is to:
-- Compare machine learning and deep learning in real-world applications
-- Explain when each approach is most appropriate
-- Demonstrate how data type influences model selection
-- Provide clear justification for choosing one approach over another
+## ⚖️ Quick Comparison
 
-## Applications and Analysis
+| Factor | Machine Learning | Deep Learning |
+|--------|----------------|--------------|
+| Data Type | Structured (tables) | Unstructured (images, audio) |
+| Complexity | Low to Medium | High |
+| Interpretability | High | Low |
+| Data Requirement | Smaller datasets | Large datasets |
 
-### Machine Learning Example: House Price Prediction
-House price prediction is a strong example of machine learning in practice. Platforms like Zillow use structured data such as square footage, number of bedrooms, and location to estimate property value.
+---
 
-Machine learning is suitable here because:
-- The data is structured and organized in a tabular format
-- Relationships between variables are clear and measurable
-- Models like linear regression are efficient and easy to interpret
-- Predictions can be explained, which is important for users making financial decisions
+## 🧠 Try It Yourself
 
-Additionally, the model does not need to extract patterns from raw data. The important features are already defined, which aligns with how traditional machine learning operates.
+<p><strong>What type of data are you working with?</strong></p>
 
-Deep learning is not suitable for this problem because:
-- It introduces unnecessary complexity for a relatively simple task
-- It requires more data and computational resources
-- It reduces interpretability, making it harder to explain predictions
-- The problem does not involve unstructured data that requires feature extraction
+<div class="decision-buttons">
+  <button onclick="showAnswer('ml')">Structured Data</button>
+  <button onclick="showAnswer('dl')">Unstructured Data</button>
+</div>
 
-### Deep Learning Example: Autonomous Driving
-Autonomous driving is a clear example where deep learning is required. Self-driving systems must process images, detect objects, interpret road conditions, and make real-time decisions.
+<div id="ml" class="decision-box" style="display:none;">
+  ✅ <strong>Use Machine Learning</strong><br>
+  Best for tabular data with clear relationships and need for interpretability.
+</div>
 
-Deep learning is suitable here because:
-- The data is unstructured and includes images and sensor inputs
-- The environment is dynamic and constantly changing
-- Models like convolutional neural networks can detect and classify objects
-- The system must learn complex patterns and relationships from raw data
-- Large datasets improve the model’s ability to generalize across scenarios
+<div id="dl" class="decision-box" style="display:none;">
+  🚀 <strong>Use Deep Learning</strong><br>
+  Best for images, audio, and complex patterns requiring large datasets.
+</div>
 
-Deep learning can automatically extract features and adapt to new situations, which is critical for real-time decision-making.
+<script>
+function showAnswer(type) {
+  document.getElementById('ml').style.display = 'none';
+  document.getElementById('dl').style.display = 'none';
+  document.getElementById(type).style.display = 'block';
+}
+</script>
 
-Machine learning is not suitable for this problem because:
-- It relies on manually selected features, which is impractical for complex visual data
-- It cannot effectively process raw images or sensor streams
-- It struggles with high-dimensional and rapidly changing data
-- It lacks the ability to model complex, real-time interactions
+---
 
-## Key Takeaways
-This artifact highlights that neither machine learning nor deep learning is always better. The choice depends on the problem and the type of data.
+## 🏠 Scenario 1: Predicting House Prices
 
-- Machine learning is best for structured, well-defined problems
-- Deep learning is best for complex, unstructured data
-- Simpler models are more efficient and interpretable when applicable
-- More advanced models are necessary for high-complexity environments
+Imagine building a system to predict house prices using:
+- square footage  
+- number of bedrooms  
+- location  
 
-Choosing the right approach leads to more effective and practical solutions.
+### 👉 The Decision  
+**Use Machine Learning**
 
-## Relevance
-This artifact reflects my understanding of how to apply artificial intelligence techniques to real-world problems. It demonstrates my ability to evaluate different modeling approaches and select the most appropriate one based on data characteristics and problem complexity.
+<details>
+<summary><strong>Why Machine Learning works</strong></summary>
 
-## References
+- Data is structured and organized  
+- Relationships between variables are clear  
+- Models like linear regression are efficient  
+- Predictions are explainable for users  
+
+</details>
+
+<details>
+<summary><strong>Why NOT Deep Learning</strong></summary>
+
+- Adds unnecessary complexity  
+- Requires more data and compute  
+- Reduces interpretability  
+
+</details>
+
+---
+
+## 🚗 Scenario 2: Autonomous Driving
+
+Now imagine a self-driving car system.
+
+It must:
+- process images  
+- detect objects  
+- interpret road conditions  
+- make real-time decisions  
+
+### 👉 The Decision  
+**Use Deep Learning**
+
+<details>
+<summary><strong>Why Deep Learning works</strong></summary>
+
+- Data is unstructured (images, sensors)  
+- Environment is dynamic  
+- CNNs can detect and classify objects  
+- Learns complex patterns from raw data  
+
+</details>
+
+<details>
+<summary><strong>Why NOT Machine Learning</strong></summary>
+
+- Cannot process raw images effectively  
+- Requires manual feature selection  
+- Struggles with high-dimensional data  
+
+</details>
+
+---
+
+## 🧠 How to Choose
+
+Use **Machine Learning** when:
+- Data is structured  
+- Problem is well-defined  
+- Interpretability matters  
+
+Use **Deep Learning** when:
+- Data is unstructured  
+- Problem is complex  
+- Large datasets are available  
+
+---
+
+## 📄 Full Report
+
+For a more detailed breakdown:
+
+[📄 View Full Report](Assignment_2.3.docx)
+
+---
+
+## 💡 Key Insight
+
+There is no “best” model.
+
+The right choice depends on:
+- the data  
+- the complexity  
+- the goal  
+
+Choosing correctly leads to **more efficient and effective solutions**.
+
+---
+
+## 🙋‍♂️ What I Learned
+
+Through this project, I developed a deeper understanding of how to evaluate AI approaches based on real-world constraints.
+
+I learned that effective AI design is not about choosing the most advanced model, but choosing the most appropriate one.
+
+---
+
+## 🎯 Relevance
+
+This project demonstrates my ability to:
+- evaluate different AI approaches  
+- select models based on data characteristics  
+- apply theoretical concepts to real-world problems  
+
+---
+
+## 📚 References
+
 Chauhan, N. K., & Singh, K. (2018). *A review on conventional machine learning vs deep learning*. 2018 International Conference on Computing, Power and Communication Technologies (GUCON).
 
 Sharifani, K., & Amini, M. (2023). *Machine learning and deep learning: A review of methods and applications*. SSRN.
