@@ -1,8 +1,6 @@
-# AI/ML Portfolio
+## Welcome
 
-Welcome to my Artificial Intelligence and Machine Learning digital portfolio. This portfolio showcases artifacts created throughout my AIML coursework and demonstrates my understanding of key AI concepts, tools, and applications.
-
-The artifacts included in this portfolio highlight my learning process, technical development, and ability to apply artificial intelligence and machine learning concepts to real-world problems.
+I build AI-driven solutions that simplify complex problems and make technology more accessible. This portfolio highlights my work in artificial intelligence and machine learning, with a focus on real-world applications and user-centered design.
 
 ---
 
@@ -14,5 +12,15 @@ Learn more about my background, professional journey, and the unique value I bri
 
 ---
 ## Artifacts
-- [Auto Guardian AI – The Auto Problem Fix](artifact/AutoGuardianAI/AutoGuardianAI)
-- [Machine Learning vs Deep Learning Applications](artifact/artifact2/ML_DL_Applications.md)
+
+### 🚗 Auto Guardian AI – The Auto Problem Fix
+An AI-powered chatbot that helps users diagnose vehicle issues and receive clear, actionable repair guidance.
+
+[View Project](artifact/AutoGuardianAI/AutoGuardianAI)
+
+---
+
+### 🤖 Machine Learning vs Deep Learning Applications
+A comparative analysis exploring key differences, use cases, and real-world applications of ML and deep learning.
+
+[View Project](artifact/artifact2/ML_DL_Applications.md)
