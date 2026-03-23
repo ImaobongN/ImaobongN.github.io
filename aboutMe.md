@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-<a href="../" class="back-btn">← Back to Home</a>
+<a href="../" class="back-btn">← Back to Portfolio</a>
 
 # About Me
 
