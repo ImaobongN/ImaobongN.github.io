@@ -1,19 +1,46 @@
+## About Me
+
+### 👋 Who I Am
+
+I build intelligent systems that simplify complex engineering problems and improve how teams develop and deploy software.
+
+I am a Senior Model-Based Development Engineer with experience in the automotive industry, focused on automation, safety-critical systems, and improving development efficiency.
+
 ---
-layout: default
-title: About Me
+
+### 💼 What I Do
+
+- Develop automation tools supporting **ISO 26262 safety compliance**
+- Build **CI workflows** that improve software quality and team productivity
+- Streamline complex engineering processes through **system-level thinking**
+- Enable teams to accelerate development while maintaining compliance
+
 ---
 
-# About Me
+### 🤖 Why AI/ML
 
-## Professional Bio
+My experience in automation and system optimization naturally led me to Artificial Intelligence and Machine Learning.
 
-I am a Senior Model-Based Development Engineer with three years of experience in the automotive industry. In my role, I have primarily focused on developing automation tools to support ISO 26262 functional safety compliance and building continuous integration (CI) workflows that improve development efficiency and software quality.
+I’m particularly interested in:
+- applying AI to engineering workflows  
+- improving diagnostics and decision-making  
+- building intelligent tools that reduce complexity  
 
-My work involves identifying opportunities to streamline complex engineering processes and creating tools that help teams maintain compliance while accelerating development. Through this experience, I have developed strong skills in problem-solving, systems thinking, and technical automation within safety-critical environments.
+By combining my background in model-based development with AI, I aim to create solutions that are both **practical and scalable**.
 
-My professional experience has also sparked a strong interest in Artificial Intelligence and Machine Learning. I am particularly interested in how AI can transform the automotive and engineering industries by improving automation, enabling smarter diagnostics, and supporting more efficient development processes. By combining my background in model-based development with emerging AI technologies, I aim to explore innovative ways to simplify complex workflows and enhance engineering productivity.
+---
 
-## Personal Value Proposition
-My unique value lies in my ability to combine curiosity, analytical thinking, and a growing technical foundation in AI and machine learning. I bring a thoughtful approach to solving problems, a willingness to learn new technologies, and a commitment to creating solutions that are both practical and impactful.
+### 🌟 What Sets Me Apart
 
-As I continue to grow professionally, I aim to apply my knowledge of AI in ways that support innovation, improve processes, and create value for organizations and communities.
+- Strong foundation in **real-world engineering systems**
+- Ability to bridge **theory and practical implementation**
+- Focus on **building solutions that are usable, not just functional**
+- Continuous learner with a passion for emerging technologies
+
+---
+
+### 🎯 Personal Value Proposition
+
+I bring a balance of engineering discipline and curiosity, allowing me to approach problems thoughtfully while continuously exploring better, smarter solutions.
+
+I aim to create systems that are not only technically sound but also meaningful and impactful in real-world applications.
