@@ -35,7 +35,8 @@ This project explores how to make the **right decision** based on real-world sce
 
 ## 🧠 Try It Yourself
 
-<p><strong>What type of data are you working with?</strong></p>
+<p><strong>What type of data are you working with?</strong><br>
+Select an option below to reveal more details.</p>
 
 <div class="decision-buttons">
   <button onclick="showAnswer('ml')">Structured Data</button>
