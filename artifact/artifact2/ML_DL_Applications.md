@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning vs Deep Learning: Real-World Applications and Decision Framework
+title: "Machine Learning vs Deep Learning: Real-World Applications and Decision Framework"
 ---
 
 # 🚀 Machine Learning vs Deep Learning: Real-World Applications
