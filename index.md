@@ -16,7 +16,7 @@ I build AI-driven solutions that simplify complex problems and make technology m
 
 
 ---
-## Artifacts
+## 🧱 Artifacts
 
 <div class="artifact-grid">
 
