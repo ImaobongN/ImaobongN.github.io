@@ -5,15 +5,11 @@ I build AI-driven solutions that simplify complex problems and make technology m
 ---
 
 
-## About Me
+## 👋 About Me
 
 <div class="about-card">
-  <h3>👋 About Me</h3>
   <p>
-    I am a Senior Model-Based Development Engineer with experience in the automotive industry, focused on automation, safety-critical systems, and improving development efficiency.
-  </p>
-  <p>
-    I am passionate about applying AI and machine learning to solve real-world problems and build intelligent, user-centered solutions.
+    Learn more about my background, professional journey, and the unique value I bring.
   </p>
   <a href="aboutMe" class="artifact-btn">Learn More</a>
 </div>
