@@ -3,6 +3,8 @@ layout: default
 title: Artifact 1 – Auto Guardian AI
 ---
 
+<a href="../../" class="back-btn">← Back to Portfolio</a>
+
 # Auto Guardian AI – The Auto Problem Fix
 
 ## Introduction
