@@ -17,14 +17,14 @@ Learn more about my background, professional journey, and the unique value I bri
 
   <div class="artifact-card">
     <h3>🚗 Auto Guardian AI – The Auto Problem Fix</h3>
-    <p>An AI-powered chatbot designed to help users diagnose vehicle issues, understand possible causes, and receive actionable repair guidance.</p>
+    <p>An AI-powered chatbot concept that helps users identify vehicle problems, understand likely causes, and receive practical repair guidance in a clear, user-friendly format.</p>
     <a href="artifact/AutoGuardianAI/AutoGuardianAI" class="artifact-btn">View Project</a>
   </div>
 
   <div class="artifact-card">
     <h3>🤖 Machine Learning vs Deep Learning Applications</h3>
-    <p>A comparative analysis of machine learning and deep learning, highlighting key differences, use cases, and real-world applications.</p>
-    <a href="artifact/artifact2/ML_DL_Applications.md" class="artifact-btn">View Project</a>
+    <p>A project comparing machine learning and deep learning through definitions, strengths, limitations, and practical applications in real-world problem solving.</p>
+    <a href="artifact/artifact2/ML_DL_Applications" class="artifact-btn">View Project</a>
   </div>
 
 </div>
