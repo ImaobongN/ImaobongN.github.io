@@ -74,7 +74,7 @@ Imagine building a system to predict house prices using:
 **Use Machine Learning**
 
 <details>
-<summary><strong>Why Machine Learning works</strong></summary>
+<summary><strong>Why Machine Learning works (click to expand)</strong></summary>
 
 - Data is structured and organized  
 - Relationships between variables are clear  
@@ -84,7 +84,7 @@ Imagine building a system to predict house prices using:
 </details>
 
 <details>
-<summary><strong>Why NOT Deep Learning</strong></summary>
+<summary><strong>Why NOT Deep Learning (click to expand)</strong></summary>
 
 - Adds unnecessary complexity  
 - Requires more data and compute  
@@ -108,7 +108,7 @@ It must:
 **Use Deep Learning**
 
 <details>
-<summary><strong>Why Deep Learning works</strong></summary>
+<summary><strong>Why Deep Learning works (click to expand)</strong></summary>
 
 - Data is unstructured (images, sensors)  
 - Environment is dynamic  
@@ -118,7 +118,7 @@ It must:
 </details>
 
 <details>
-<summary><strong>Why NOT Machine Learning</strong></summary>
+<summary><strong>Why NOT Machine Learning (click to expand)</strong></summary>
 
 - Cannot process raw images effectively  
 - Requires manual feature selection  
