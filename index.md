@@ -9,7 +9,7 @@ I build AI-driven solutions that simplify complex problems and make technology m
 
 <div class="about-card">
   <p>
-    Learn more about my background, professional journey, and the unique value I bring.
+    Learn more about my background, professional journey, and my personal value proposition
   </p>
   <a href="aboutMe" class="artifact-btn">Learn More</a>
 </div>
