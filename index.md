@@ -6,9 +6,18 @@ I build AI-driven solutions that simplify complex problems and make technology m
 
 
 ## About Me
-Learn more about my background, professional journey, and the unique value I bring.
 
-[Professional Bio & Personal Value Proposition](aboutMe)
+<div class="about-card">
+  <h3>👋 About Me</h3>
+  <p>
+    I am a Senior Model-Based Development Engineer with experience in the automotive industry, focused on automation, safety-critical systems, and improving development efficiency.
+  </p>
+  <p>
+    I am passionate about applying AI and machine learning to solve real-world problems and build intelligent, user-centered solutions.
+  </p>
+  <a href="aboutMe" class="artifact-btn">Learn More</a>
+</div>
+
 
 ---
 ## Artifacts
