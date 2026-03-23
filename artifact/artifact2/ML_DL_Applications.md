@@ -71,7 +71,7 @@ Imagine building a system to predict house prices using:
 - location  
 
 ### 👉 The Decision  
-**Use Machine Learning**
+**✅ Use Machine Learning**
 
 <details>
 <summary><strong>Why Machine Learning works (click to expand)</strong></summary>
@@ -105,7 +105,7 @@ It must:
 - make real-time decisions  
 
 ### 👉 The Decision  
-**Use Deep Learning**
+**✅ Use Deep Learning**
 
 <details>
 <summary><strong>Why Deep Learning works (click to expand)</strong></summary>
