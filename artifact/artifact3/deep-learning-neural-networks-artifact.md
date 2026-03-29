@@ -120,16 +120,16 @@ summary {
 # 🧠 Artifact 3: Deep Learning and Neural Networks
 
 <div class="artifact-hero">
-  <h2 style="margin-top:0;">From Understanding Concepts to Explaining Them Visually</h2>
+  <h2 style="margin-top:0;">Understanding AI Concepts Through Visual Explanation</h2>
   <p>
-    This artifact highlights what I learned about neural networks, deep learning, and model selection in machine learning.
-    My goal was to move beyond text-heavy explanation and present these concepts in a way that is simple, visual, and practical.
+    This artifact builds on my earlier machine learning work by focusing on neural networks, deep learning, and model selection.
+    I wanted the page to match the clean card-based feel of my portfolio while using visuals and interactive sections to explain ideas more clearly.
   </p>
   <div class="badge-row">
     <span class="badge">Neural Networks</span>
     <span class="badge">Deep Learning</span>
     <span class="badge">Model Selection</span>
-    <span class="badge">Visual Communication</span>
+    <span class="badge">Portfolio Artifact</span>
   </div>
 </div>
 
@@ -137,37 +137,37 @@ summary {
 
 <div class="artifact-grid">
   <div class="artifact-card">
-    <h3>Clear Explanation</h3>
-    <p>I focused on making technical concepts easier to understand without losing accuracy.</p>
+    <h3>🧩 Simplifies Complexity</h3>
+    <p>This page explains technical concepts in a way that feels clear, practical, and approachable.</p>
   </div>
   <div class="artifact-card">
-    <h3>Decision Making</h3>
-    <p>I show not only what machine learning and deep learning are, but when each one makes sense.</p>
+    <h3>🎯 Supports Decision Making</h3>
+    <p>It shows when machine learning works best and when deep learning is the stronger choice.</p>
   </div>
   <div class="artifact-card">
-    <h3>Real World Relevance</h3>
-    <p>The examples connect theory to familiar use cases like house pricing, speech recognition, and autonomous driving.</p>
+    <h3>🌍 Connects to Real Use Cases</h3>
+    <p>Examples like house pricing and autonomous driving make the concepts easier to see and remember.</p>
   </div>
 </div>
 
-## Simple Explanation of a Neural Network
+## A Simple Explanation of a Neural Network
 
 <div class="callout">
   A neural network is a system that learns patterns from data. It takes in information, processes it through layers, and produces a prediction or decision.
 </div>
 
 <div class="visual-block">
-  <h3 style="margin-top:0;">Neural Network / Deep Learning Pipeline</h3>
+  <h3 style="margin-top:0;">Deep Learning / Neural Network Flow</h3>
   <img src="assets/dl-pipeline.svg" alt="Deep learning pipeline diagram showing input, hidden layers, feature extraction, and output">
 </div>
 
 <div class="quick-points">
   <div><strong>Input Layer</strong><br>Receives data such as numbers, text, or images.</div>
-  <div><strong>Hidden Layers</strong><br>Identify patterns and relationships inside the data.</div>
-  <div><strong>Output Layer</strong><br>Produces a result such as a label, prediction, or recommendation.</div>
+  <div><strong>Hidden Layers</strong><br>Detect patterns and relationships within the data.</div>
+  <div><strong>Output Layer</strong><br>Produces a result such as a prediction, label, or recommendation.</div>
 </div>
 
-## Machine Learning vs. Deep Learning
+## Machine Learning vs Deep Learning
 
 <table class="compare-table">
   <thead>
@@ -181,7 +181,7 @@ summary {
     <tr>
       <td>Best for</td>
       <td>Structured data</td>
-      <td>Images, audio, text, and other complex data</td>
+      <td>Images, speech, text, and other complex data</td>
     </tr>
     <tr>
       <td>Feature Engineering</td>
@@ -196,7 +196,7 @@ summary {
     <tr>
       <td>Data Requirements</td>
       <td>Works with smaller datasets</td>
-      <td>Usually benefits from larger datasets</td>
+      <td>Often needs larger datasets</td>
     </tr>
     <tr>
       <td>Complexity</td>
@@ -207,22 +207,22 @@ summary {
 </table>
 
 <div class="visual-block">
-  <h3 style="margin-top:0;">Machine Learning Pipeline</h3>
+  <h3 style="margin-top:0;">Machine Learning Flow</h3>
   <img src="assets/ml-pipeline.svg" alt="Machine learning pipeline diagram showing input data, feature selection, model training, and output prediction">
 </div>
 
-## Real World Scenarios
+## Real-World Scenarios
 
 <div class="artifact-grid">
   <div class="visual-block">
     <h3 style="margin-top:0;">🏠 House Price Prediction</h3>
     <img src="assets/house-pricing-flow.svg" alt="Diagram showing house features flowing into a model to predict house price">
-    <p>This is a good example of machine learning because the data is structured and the relationship between features and output can be modeled directly.</p>
+    <p>This scenario fits machine learning well because the data is structured and the goal is a direct prediction.</p>
   </div>
   <div class="visual-block">
     <h3 style="margin-top:0;">🚗 Autonomous Driving</h3>
     <img src="assets/autonomous-driving-flow.svg" alt="Diagram showing camera image, object detection, and driving decision output">
-    <p>This is a strong deep learning example because the system must process images, detect objects, and make fast decisions in real time.</p>
+    <p>This scenario fits deep learning because the system must interpret images and make fast, complex decisions.</p>
   </div>
 </div>
 
@@ -233,45 +233,42 @@ summary {
   <img src="assets/model-decision-tree.svg" alt="Decision tree showing whether to use machine learning or deep learning based on data type and dataset size">
 </div>
 
-## Click to Explore Key Learnings
+## Click to Explore What I Learned
 
 <details class="details-card">
-  <summary>📘 What I Learned About Neural Networks</summary>
+  <summary>📘 Neural Networks</summary>
   <p>
-    Neural networks are powerful because they can detect patterns that may be too complex for traditional models.
-    I learned that their strength comes from layer-based learning, where each layer captures increasingly meaningful information.
+    I learned that neural networks become powerful because each layer helps the model recognize patterns at a deeper level.
+    Instead of relying only on human-defined rules, the system learns from examples and improves through training.
   </p>
 </details>
 
 <details class="details-card">
-  <summary>📘 What I Learned About Deep Learning</summary>
+  <summary>📘 Deep Learning</summary>
   <p>
-    Deep learning is especially useful for unstructured data because it can automatically extract features.
-    This makes it valuable for tasks like image recognition, voice assistants, and autonomous systems.
+    Deep learning is especially useful for unstructured data. It can automatically extract meaningful features from images, audio, and text, which makes it valuable for modern AI applications.
   </p>
 </details>
 
 <details class="details-card">
-  <summary>📘 What I Learned From Quiz Topics and Class Discussions</summary>
+  <summary>📘 Quiz and Class Takeaways</summary>
   <p>
-    A major takeaway from class was the importance of understanding not just what a model does, but why one approach fits a problem better than another.
-    I also strengthened my understanding of training, pattern recognition, feature extraction, prediction, and the tradeoff between simplicity and model complexity.
+    From class discussions and quiz topics, I strengthened my understanding of pattern recognition, model training, feature extraction, prediction, and the importance of choosing the right model for the problem.
   </p>
 </details>
 
 <details class="details-card">
   <summary>📘 Key Insight</summary>
   <p>
-    The most important lesson for me is that understanding machine learning and deep learning is not only about definitions.
-    It is about knowing how to explain them simply, apply them thoughtfully, and select the right method for the problem at hand.
+    My biggest takeaway is that understanding AI is not just about defining terms. It is about explaining concepts simply, selecting the right method, and connecting technical ideas to real-world use.
   </p>
 </details>
 
 ## Reflection
 
-This artifact reflects my growth in two areas. First, I developed a stronger understanding of neural networks and deep learning as practical tools for solving different types of problems. Second, I recognized that strong technical communication is not just about writing clearly. It is also about using visuals that help people understand concepts quickly.
+This artifact reflects my growth in both technical understanding and communication. In earlier work, I relied heavily on text. In this version, I focused more on structure, visual explanation, and interactive sections that align better with a professional portfolio.
 
-In earlier work, I relied too heavily on explanation through text. In this version, I focused on visual reinforcement through diagrams, structured sections, and interactive collapsible content. That shift helped me communicate the material more effectively and made the artifact feel more like a professional portfolio piece rather than a class summary.
+What stands out most to me is that strong communication in AI is not only about being correct. It is also about helping people understand the idea quickly. That is why I used diagrams, cards, and collapsible sections to make the page more engaging and easier to navigate.
 
 ## Tools and Technologies Used
 
@@ -282,6 +279,6 @@ In earlier work, I relied too heavily on explanation through text. In this versi
 
 ## AI Disclosure
 
-ChatGPT was used to assist with brainstorming, organizing the artifact structure, and refining explanations for clarity.
+ChatGPT was used to support brainstorming, organizing the artifact layout, and refining explanations for clarity.
 
-[⬅ Back to Landing Page](index.html)
+[⬅ Back to Landing Page](../../index.html)
