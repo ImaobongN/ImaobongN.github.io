@@ -259,12 +259,6 @@ summary {
   </p>
 </details>
 
-## Reflection
-
-This artifact reflects my growth in both technical understanding and communication. In earlier work, I relied heavily on text. In this version, I focused more on structure, visual explanation, and interactive sections that align better with a professional portfolio.
-
-What stands out most to me is that strong communication in AI is not only about being correct. It is also about helping people understand the idea quickly. That is why I used diagrams, cards, and collapsible sections to make the page more engaging and easier to navigate.
-
 ## Tools and Technologies Used
 
 - GitHub Pages
