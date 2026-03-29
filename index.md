@@ -4,7 +4,6 @@ I build AI-driven solutions that simplify complex problems and make technology m
 
 ---
 
-
 ## 👋 About Me
 
 <div class="about-card">
@@ -13,7 +12,6 @@ I build AI-driven solutions that simplify complex problems and make technology m
   </p>
   <a href="aboutMe" class="artifact-btn">Learn More</a>
 </div>
-
 
 ---
 ## 🧱 Artifacts
@@ -30,6 +28,12 @@ I build AI-driven solutions that simplify complex problems and make technology m
     <h3>🤖 Machine Learning vs Deep Learning Applications</h3>
     <p>A project comparing machine learning and deep learning through definitions, strengths, limitations, and practical applications in real-world problem solving.</p>
     <a href="artifact/artifact2/ML_DL_Applications" class="artifact-btn">Read Report</a>
+  </div>
+
+  <div class="artifact-card">
+    <h3>🧠 Deep Learning and Neural Networks</h3>
+    <p>An interactive artifact that explains neural networks, deep learning, and model selection through visual diagrams, real-world scenarios, and collapsible learning sections.</p>
+    <a href="artifact/artifact3/artifact3-deep-learning-neural-networks" class="artifact-btn">Explore Artifact</a>
   </div>
 
 </div>
