@@ -218,12 +218,21 @@ summary {
 <div class="artifact-grid">
   <div class="visual-block">
     <h3 style="margin-top:0;">🏠 House Price Prediction</h3>
-    <img src="assets/house-pricing-flow.svg" alt="Diagram showing house features flowing into a model to predict house price">
+    
+    <a href="assets/house-pricing-flow.svg" target="_blank">
+      <img src="assets/house-pricing-flow.svg" alt="Diagram showing house features flowing into a model to predict house price">
+    </a>
+
     <p>This scenario fits machine learning well because the data is structured and the goal is a direct prediction.</p>
   </div>
+
   <div class="visual-block">
     <h3 style="margin-top:0;">🚗 Autonomous Driving</h3>
-    <img src="assets/autonomous-driving-flow.svg" alt="Diagram showing camera image, object detection, and driving decision output">
+    
+    <a href="assets/autonomous-driving-flow.svg" target="_blank">
+      <img src="assets/autonomous-driving-flow.svg" alt="Diagram showing camera image, object detection, and driving decision output">
+    </a>
+
     <p>This scenario fits deep learning because the system must interpret images and make fast, complex decisions.</p>
   </div>
 </div>
