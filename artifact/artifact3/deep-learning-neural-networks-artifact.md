@@ -253,13 +253,6 @@ summary {
 </details>
 
 <details class="details-card">
-  <summary>📘 Quiz and Class Takeaways</summary>
-  <p>
-    From class discussions and quiz topics, I strengthened my understanding of pattern recognition, model training, feature extraction, prediction, and the importance of choosing the right model for the problem.
-  </p>
-</details>
-
-<details class="details-card">
   <summary>📘 Key Insight</summary>
   <p>
     My biggest takeaway is that understanding AI is not just about defining terms. It is about explaining concepts simply, selecting the right method, and connecting technical ideas to real-world use.
@@ -279,7 +272,4 @@ What stands out most to me is that strong communication in AI is not only about 
 - SVG diagrams for visual explanation
 - ChatGPT for brainstorming, structure, and clarity support
 
-## AI Disclosure
-
-ChatGPT was used to support brainstorming, organizing the artifact layout, and refining explanations for clarity.
 
