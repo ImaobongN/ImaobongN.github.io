@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" fill="#f8fafc" rx="24"/>
+  <text x="600" y="42" text-anchor="middle" font-size="28" font-family="Arial" fill="#0f172a" font-weight="700">Machine Learning Pipeline</text>
+  <g font-family="Arial" text-anchor="middle">
+    <rect x="60" y="105" width="220" height="120" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="170" y="152" font-size="24" fill="#1e293b" font-weight="700">Input Data</text>
+    <text x="170" y="184" font-size="18" fill="#475569">Structured features</text>
+    <text x="170" y="208" font-size="18" fill="#475569">numbers, labels</text>
+
+    <rect x="340" y="105" width="220" height="120" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="450" y="152" font-size="24" fill="#1e293b" font-weight="700">Feature Selection</text>
+    <text x="450" y="184" font-size="18" fill="#475569">Choose relevant</text>
+    <text x="450" y="208" font-size="18" fill="#475569">inputs for learning</text>
+
+    <rect x="620" y="105" width="220" height="120" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="730" y="152" font-size="24" fill="#1e293b" font-weight="700">Model Training</text>
+    <text x="730" y="184" font-size="18" fill="#475569">Learn relationships</text>
+    <text x="730" y="208" font-size="18" fill="#475569">from data</text>
+
+    <rect x="900" y="105" width="220" height="120" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="1010" y="152" font-size="24" fill="#1e293b" font-weight="700">Prediction</text>
+    <text x="1010" y="184" font-size="18" fill="#475569">Estimate or classify</text>
+    <text x="1010" y="208" font-size="18" fill="#475569">new examples</text>
+  </g>
+  <g stroke="#6366f1" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M285 165 L330 165"/>
+    <path d="M565 165 L610 165"/>
+    <path d="M845 165 L890 165"/>
+  </g>
+  <g fill="#6366f1">
+    <polygon points="330,165 315,156 315,174"/>
+    <polygon points="610,165 595,156 595,174"/>
+    <polygon points="890,165 875,156 875,174"/>
+  </g>
+</svg>

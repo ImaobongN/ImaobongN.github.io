@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#f8fafc" rx="24"/>
+  <text x="600" y="42" text-anchor="middle" font-size="28" font-family="Arial" fill="#0f172a" font-weight="700">Neural Network / Deep Learning Pipeline</text>
+  <g font-family="Arial" text-anchor="middle">
+    <rect x="40" y="110" width="180" height="130" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="130" y="160" font-size="24" fill="#1e293b" font-weight="700">Input</text>
+    <text x="130" y="192" font-size="18" fill="#475569">image, text,</text>
+    <text x="130" y="216" font-size="18" fill="#475569">audio, numbers</text>
+
+    <rect x="290" y="92" width="250" height="166" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="415" y="130" font-size="24" fill="#1e293b" font-weight="700">Hidden Layers</text>
+    <circle cx="350" cy="180" r="18" fill="#c7d2fe"/>
+    <circle cx="350" cy="225" r="18" fill="#c7d2fe"/>
+    <circle cx="415" cy="155" r="18" fill="#a5b4fc"/>
+    <circle cx="415" cy="200" r="18" fill="#a5b4fc"/>
+    <circle cx="415" cy="245" r="18" fill="#a5b4fc"/>
+    <circle cx="480" cy="180" r="18" fill="#818cf8"/>
+    <circle cx="480" cy="225" r="18" fill="#818cf8"/>
+    <line x1="350" y1="180" x2="415" y2="155" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="350" y1="180" x2="415" y2="200" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="350" y1="180" x2="415" y2="245" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="350" y1="225" x2="415" y2="155" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="350" y1="225" x2="415" y2="200" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="350" y1="225" x2="415" y2="245" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="415" y1="155" x2="480" y2="180" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="415" y1="155" x2="480" y2="225" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="415" y1="200" x2="480" y2="180" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="415" y1="200" x2="480" y2="225" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="415" y1="245" x2="480" y2="180" stroke="#94a3b8" stroke-width="2"/>
+    <line x1="415" y1="245" x2="480" y2="225" stroke="#94a3b8" stroke-width="2"/>
+
+    <rect x="610" y="110" width="220" height="130" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="720" y="160" font-size="24" fill="#1e293b" font-weight="700">Feature Extraction</text>
+    <text x="720" y="192" font-size="18" fill="#475569">learn patterns, edges,</text>
+    <text x="720" y="216" font-size="18" fill="#475569">shapes, relationships</text>
+
+    <rect x="900" y="110" width="220" height="130" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="1010" y="160" font-size="24" fill="#1e293b" font-weight="700">Output</text>
+    <text x="1010" y="192" font-size="18" fill="#475569">classification,</text>
+    <text x="1010" y="216" font-size="18" fill="#475569">prediction, decision</text>
+  </g>
+  <g stroke="#6366f1" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M225 175 L280 175"/>
+    <path d="M545 175 L600 175"/>
+    <path d="M835 175 L890 175"/>
+  </g>
+  <g fill="#6366f1">
+    <polygon points="280,175 265,166 265,184"/>
+    <polygon points="600,175 585,166 585,184"/>
+    <polygon points="890,175 875,166 875,184"/>
+  </g>
+</svg>
