@@ -3,6 +3,8 @@ layout: default
 title: Artifact 3 – Deep Learning and Neural Networks
 ---
 
+<a href="../../" class="back-btn">← Back to Portfolio</a>
+
 <style>
 .artifact-hero {
   background: linear-gradient(135deg, #f8fafc 0%, #eef4ff 100%);
@@ -281,4 +283,3 @@ What stands out most to me is that strong communication in AI is not only about 
 
 ChatGPT was used to support brainstorming, organizing the artifact layout, and refining explanations for clarity.
 
-[⬅ Back to Landing Page](../../index.html)
