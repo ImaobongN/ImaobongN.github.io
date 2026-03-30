@@ -33,7 +33,7 @@ I build AI-driven solutions that simplify complex problems and make technology m
   <div class="artifact-card">
     <h3>🧠 Deep Learning and Neural Networks</h3>
     <p>An interactive artifact that explains neural networks, deep learning, and model selection through visual diagrams, real-world scenarios, and collapsible learning sections.</p>
-    <a href="artifact/artifact3" class="artifact-btn">Explore Artifact</a>
+    <a href="artifact/artifact3" class="artifact-btn">Read Report</a>
   </div>
 
 </div>
