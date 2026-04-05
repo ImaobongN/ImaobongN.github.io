@@ -1,9 +1,9 @@
 ---
 layout: default
-title: AI Evolution Timeline
+title: Artifact 4 - AI Evolution Timeline
 ---
 
-# 🧠 The Evolution of AI
+# Artifact 4: 🧠 The Evolution of AI
 
 <div class="timeline-hero">
 
