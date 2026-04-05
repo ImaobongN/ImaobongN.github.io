@@ -56,7 +56,7 @@ title: Artifact 4 - AI Evolution Timeline
 ---
 
 <details class="dropdown-section">
-  <summary>✨ What stands out from AI history</summary>
+  <summary>✨ What stands out from AI history <span class="arrow">▶</span></summary>
   <div class="dropdown-content">
     <ul>
       <li>AI evolved through cycles of hype and setbacks</li>
@@ -69,7 +69,7 @@ title: Artifact 4 - AI Evolution Timeline
 ---
 
 <details class="dropdown-section">
-  <summary>💡 Why I included this in my portfolio</summary>
+  <summary>💡 Why I included this in my portfolio <span class="arrow">▶</span></summary>
   <div class="dropdown-content">
     <p>
       I included this artifact to show AI as a long-term evolution rather than a sudden trend. 
@@ -162,12 +162,25 @@ title: Artifact 4 - AI Evolution Timeline
 
 .dropdown-section summary {
   cursor: pointer;
-  padding: 14px;
+  padding: 14px 18px;
   font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .dropdown-content {
-  padding: 14px;
+  padding: 14px 18px;
+}
+
+/* Arrow animation */
+.arrow {
+  transition: transform 0.2s ease;
+  font-size: 0.9rem;
+}
+
+details[open] .arrow {
+  transform: rotate(90deg);
 }
 
 /* MODAL */
