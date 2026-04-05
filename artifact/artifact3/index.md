@@ -1,169 +1,277 @@
 ---
 layout: default
-title: The Evolution of AI
+title: Artifact 3 – Deep Learning and Neural Networks
 ---
 
 <a href="../../" class="back-btn">← Back to Portfolio</a>
 
-# 📜 The Evolution of AI
+<style>
+.artifact-hero {
+  background: linear-gradient(135deg, #f8fafc 0%, #eef4ff 100%);
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 1.5rem;
+  margin: 1rem 0 1.5rem 0;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+}
 
-> A visual, click-to-explore journey through the major moments that shaped artificial intelligence.
+.artifact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
 
-<div style="margin: 1.5rem 0;">
-  <img src="assets/ai-timeline-visual.svg" alt="Visual timeline of AI history from 1950 to the present, showing Turing, Dartmouth, ELIZA, AI winters, backpropagation, Deep Blue, Watson, AlexNet, transformers, ChatGPT, and the current AI era." style="width:100%; border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,0.12);">
-</div>
+.artifact-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.05);
+}
 
-## ✨ Explore the timeline
+.artifact-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin: 0.75rem 0 1.5rem 0;">
-  <a href="#foundations" style="text-decoration:none; background:#eef2ff; padding:10px 14px; border-radius:999px;">🧠 Foundations</a>
-  <a href="#early-ai" style="text-decoration:none; background:#ecfeff; padding:10px 14px; border-radius:999px;">💬 Early AI</a>
-  <a href="#ai-winters" style="text-decoration:none; background:#fef2f2; padding:10px 14px; border-radius:999px;">❄️ AI Winters</a>
-  <a href="#revival" style="text-decoration:none; background:#f0fdf4; padding:10px 14px; border-radius:999px;">🚀 Revival</a>
-  <a href="#deep-learning" style="text-decoration:none; background:#fff7ed; padding:10px 14px; border-radius:999px;">🔬 Deep Learning</a>
-  <a href="#today" style="text-decoration:none; background:#faf5ff; padding:10px 14px; border-radius:999px;">🌍 Today</a>
-</div>
+.visual-block {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.05);
+}
 
-## 👀 At a glance
+.visual-block img {
+  width: 100%;
+  border-radius: 12px;
+}
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(180px, 1fr)); gap:14px; margin: 1rem 0 1.75rem 0;">
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb; text-align:center;">
-    <div style="font-size:1.8rem;">1950</div>
-    <strong>Turing Test</strong>
-  </div>
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb; text-align:center;">
-    <div style="font-size:1.8rem;">1956</div>
-    <strong>AI gets its name</strong>
-  </div>
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb; text-align:center;">
-    <div style="font-size:1.8rem;">1997</div>
-    <strong>Deep Blue wins</strong>
-  </div>
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb; text-align:center;">
-    <div style="font-size:1.8rem;">2012</div>
-    <strong>AlexNet breakthrough</strong>
-  </div>
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb; text-align:center;">
-    <div style="font-size:1.8rem;">2017</div>
-    <strong>Transformers</strong>
-  </div>
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb; text-align:center;">
-    <div style="font-size:1.8rem;">2022+</div>
-    <strong>Generative AI era</strong>
-  </div>
-</div>
+.callout {
+  border-left: 4px solid #c4b5fd;
+  background: #faf5ff;
+  padding: 0.9rem 1rem;
+  border-radius: 10px;
+  margin: 1rem 0;
+}
 
----
+.quick-points {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.85rem;
+  margin: 1rem 0;
+}
 
-<section id="foundations">
-<h2>🧠 Foundations</h2>
+.quick-points div {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 0.9rem;
+}
 
-<details open>
-  <summary><strong>1950 • Alan Turing asks: Can machines think?</strong></summary>
-  <p>Turing’s ideas introduced a practical way to think about machine intelligence and shaped early AI research.</p>
-</details>
+.compare-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.75rem;
+}
 
-<details>
-  <summary><strong>1956 • Dartmouth Conference</strong></summary>
-  <p>This is the moment AI became its own field. The term <em>artificial intelligence</em> was formally introduced.</p>
-</details>
-</section>
+.compare-table th,
+.compare-table td {
+  border: 1px solid #e5e7eb;
+  padding: 0.8rem;
+  text-align: left;
+}
 
-<section id="early-ai">
-<h2>💬 Early AI</h2>
+.compare-table th {
+  background: #f8fafc;
+}
 
-<details>
-  <summary><strong>1966 • ELIZA shows early conversation simulation</strong></summary>
-  <p>ELIZA used simple rules, but it showed people were already fascinated by machines that could “talk.”</p>
-</details>
-</section>
+summary {
+  cursor: pointer;
+  font-weight: 700;
+  padding: 0.75rem 0;
+}
 
-<section id="ai-winters">
-<h2>❄️ AI Winters</h2>
+.details-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 0 1rem 0.75rem 1rem;
+  margin: 0.9rem 0;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
+}
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:14px; margin: 0.75rem 0 1rem 0;">
-  <div style="background:#fff7f7; padding:16px; border-radius:16px; border:1px solid #fecaca;">
-    <h3 style="margin-top:0;">1974–1980</h3>
-    <p>Funding dropped when early promises did not match real-world progress.</p>
-  </div>
-  <div style="background:#fff7f7; padding:16px; border-radius:16px; border:1px solid #fecaca;">
-    <h3 style="margin-top:0;">1987–1993</h3>
-    <p>Expert systems became expensive and difficult to maintain, leading to another slowdown.</p>
-  </div>
-</div>
+.badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
 
-<details>
-  <summary><strong>Why the winters matter</strong></summary>
-  <p>They remind us that AI progress depends on more than ideas. It also needs enough data, computing power, and realistic expectations.</p>
-</details>
-</section>
+.badge {
+  background: #eef2ff;
+  color: #4338ca;
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.9rem;
+}
+</style>
 
-<section id="revival">
-<h2>🚀 Revival</h2>
+# 🧠 Artifact 3: Deep Learning and Neural Networks
 
-<details>
-  <summary><strong>1986 • Backpropagation helps neural networks learn</strong></summary>
-  <p>This became one of the key building blocks behind modern deep learning.</p>
-</details>
-
-<details>
-  <summary><strong>1997 • Deep Blue defeats Garry Kasparov</strong></summary>
-  <p>This was a major public moment for AI and showed that machines could outperform humans in complex strategy tasks.</p>
-</details>
-
-<details>
-  <summary><strong>2011 • IBM Watson wins Jeopardy!</strong></summary>
-  <p>Watson highlighted progress in language processing, retrieval, and question answering.</p>
-</details>
-</section>
-
-<section id="deep-learning">
-<h2>🔬 Deep Learning Era</h2>
-
-<details>
-  <summary><strong>2012 • AlexNet transforms computer vision</strong></summary>
-  <p>AlexNet showed how powerful neural networks could become when paired with GPUs and large datasets.</p>
-</details>
-
-<details>
-  <summary><strong>2017 • Transformers reshape AI</strong></summary>
-  <p>The transformer architecture became the foundation for modern language models and many generative AI systems.</p>
-</details>
-</section>
-
-<section id="today">
-<h2>🌍 Today’s AI</h2>
-
-<details open>
-  <summary><strong>2022–2023 • Generative AI becomes mainstream</strong></summary>
-  <p>Tools like ChatGPT brought AI into everyday work, learning, and creativity.</p>
-</details>
-
-<details>
-  <summary><strong>Now • Multimodal and agentic systems</strong></summary>
-  <p>AI today can work across text, images, audio, and video, with growing focus on reasoning, automation, and assistance.</p>
-</details>
-</section>
-
----
-
-## 💡 What this timeline shows
-
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:14px; margin: 1rem 0 1.5rem 0;">
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb;">
-    <strong>AI did not grow in a straight line</strong>
-    <p style="margin-bottom:0;">Breakthroughs were often followed by setbacks.</p>
-  </div>
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb;">
-    <strong>Scale changed everything</strong>
-    <p style="margin-bottom:0;">Better hardware and bigger datasets pushed AI forward.</p>
-  </div>
-  <div style="background:#f8fafc; padding:16px; border-radius:16px; border:1px solid #e5e7eb;">
-    <strong>AI keeps evolving</strong>
-    <p style="margin-bottom:0;">From symbolic systems to deep learning to generative AI.</p>
+<div class="artifact-hero">
+  <h2 style="margin-top:0;">Understanding AI Concepts Through Visual Explanation</h2>
+  <p>
+    This artifact builds on my earlier machine learning work by focusing on neural networks, deep learning, and model selection.
+    I wanted the page to match the clean card-based feel of my portfolio while using visuals and interactive sections to explain ideas more clearly.
+  </p>
+  <div class="badge-row">
+    <span class="badge">Neural Networks</span>
+    <span class="badge">Deep Learning</span>
+    <span class="badge">Model Selection</span>
+    <span class="badge">Portfolio Artifact</span>
   </div>
 </div>
 
-## 🌟 Why I included this artifact
+## Why This Artifact Matters
 
-I wanted this page to show AI as a journey, not just a list of facts. The timeline highlights how ideas, failures, and breakthroughs all contributed to the systems we use today.
+<div class="artifact-grid">
+  <div class="artifact-card">
+    <h3>🧩 Simplifies Complexity</h3>
+    <p>This page explains technical concepts in a way that feels clear, practical, and approachable.</p>
+  </div>
+  <div class="artifact-card">
+    <h3>🎯 Supports Decision Making</h3>
+    <p>It shows when machine learning works best and when deep learning is the stronger choice.</p>
+  </div>
+  <div class="artifact-card">
+    <h3>🌍 Connects to Real Use Cases</h3>
+    <p>Examples like house pricing and autonomous driving make the concepts easier to see and remember.</p>
+  </div>
+</div>
+
+## A Simple Explanation of a Neural Network
+
+<div class="callout">
+  A neural network is a system that learns patterns from data. It takes in information, processes it through layers, and produces a prediction or decision.
+</div>
+
+<div class="visual-block">
+  <h3 style="margin-top:0;">Deep Learning / Neural Network Flow</h3>
+  <img src="assets/dl-pipeline.svg" alt="Deep learning pipeline diagram showing input, hidden layers, feature extraction, and output">
+</div>
+
+<div class="quick-points">
+  <div><strong>Input Layer</strong><br>Receives data such as numbers, text, or images.</div>
+  <div><strong>Hidden Layers</strong><br>Detect patterns and relationships within the data.</div>
+  <div><strong>Output Layer</strong><br>Produces a result such as a prediction, label, or recommendation.</div>
+</div>
+
+## Machine Learning vs Deep Learning
+
+<table class="compare-table">
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Machine Learning</th>
+      <th>Deep Learning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Best for</td>
+      <td>Structured data</td>
+      <td>Images, speech, text, and other complex data</td>
+    </tr>
+    <tr>
+      <td>Feature Engineering</td>
+      <td>Usually manual</td>
+      <td>Usually automatic</td>
+    </tr>
+    <tr>
+      <td>Interpretability</td>
+      <td>Higher</td>
+      <td>Lower</td>
+    </tr>
+    <tr>
+      <td>Data Requirements</td>
+      <td>Works with smaller datasets</td>
+      <td>Often needs larger datasets</td>
+    </tr>
+    <tr>
+      <td>Complexity</td>
+      <td>Lower</td>
+      <td>Higher</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="visual-block">
+  <h3 style="margin-top:0;">Machine Learning Flow</h3>
+  <img src="assets/ml-pipeline.svg" alt="Machine learning pipeline diagram showing input data, feature selection, model training, and output prediction">
+</div>
+
+## Real-World Scenarios
+
+<div class="artifact-grid">
+  <div class="visual-block">
+    <h3 style="margin-top:0;">🏠 House Price Prediction</h3>
+    
+    <a href="assets/house-pricing-flow.svg" target="_blank">
+      <img src="assets/house-pricing-flow.svg" alt="Diagram showing house features flowing into a model to predict house price">
+    </a>
+
+    <p>This scenario fits machine learning well because the data is structured and the goal is a direct prediction.</p>
+  </div>
+
+  <div class="visual-block">
+    <h3 style="margin-top:0;">🚗 Autonomous Driving</h3>
+    
+    <a href="assets/autonomous-driving-flow.svg" target="_blank">
+      <img src="assets/autonomous-driving-flow.svg" alt="Diagram showing camera image, object detection, and driving decision output">
+    </a>
+
+    <p>This scenario fits deep learning because the system must interpret images and make fast, complex decisions.</p>
+  </div>
+</div>
+
+## Choosing the Right Approach
+
+<div class="visual-block">
+  <h3 style="margin-top:0;">Model Selection Decision Tree</h3>
+  <img src="assets/model-decision-tree.svg" alt="Decision tree showing whether to use machine learning or deep learning based on data type and dataset size">
+</div>
+
+## Click to Explore What I Learned
+
+<details class="details-card">
+  <summary>📘 Neural Networks</summary>
+  <p>
+    I learned that neural networks become powerful because each layer helps the model recognize patterns at a deeper level.
+    Instead of relying only on human-defined rules, the system learns from examples and improves through training.
+  </p>
+</details>
+
+<details class="details-card">
+  <summary>📘 Deep Learning</summary>
+  <p>
+    Deep learning is especially useful for unstructured data. It can automatically extract meaningful features from images, audio, and text, which makes it valuable for modern AI applications.
+  </p>
+</details>
+
+<details class="details-card">
+  <summary>📘 Key Insight</summary>
+  <p>
+    My biggest takeaway is that understanding AI is not just about defining terms. It is about explaining concepts simply, selecting the right method, and connecting technical ideas to real-world use.
+  </p>
+</details>
+
+## Tools and Technologies Used
+
+- GitHub Pages
+- Markdown with embedded HTML/CSS
+- SVG diagrams for visual explanation
+- ChatGPT for brainstorming, structure, and clarity support
+
