@@ -13,7 +13,7 @@ title: AI Evolution Timeline
       Explore how artificial intelligence evolved from early rule-based systems 
       into deep learning, transformers, and today’s multimodal AI.
       <br><br>
-      👉 Hover or click a milestone to explore.
+      👉 Click image to view AI timeline
     </p>
   </div>
 
