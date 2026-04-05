@@ -3,6 +3,8 @@ layout: default
 title: Artifact 4 - AI Evolution Timeline
 ---
 
+<a href="../../" class="back-btn">← Back to Portfolio</a>
+
 # Artifact 4: 🧠 The Evolution of AI
 
 <div class="timeline-hero">
