@@ -3,6 +3,8 @@ layout: default
 title: The Evolution of AI
 ---
 
+<a href="../../" class="back-btn">← Back to Portfolio</a>
+
 # The Evolution of AI
 
 > A visual overview of major AI milestones, setbacks, and breakthroughs from 1950 to today.
@@ -106,5 +108,3 @@ The shift from symbolic AI to neural networks, then to transformers and multimod
 I created this visual to show that AI is more than a recent trend. It has developed through decades of experimentation, failure, learning, and reinvention. Understanding this timeline helps explain why current AI tools are so powerful and why responsible development matters just as much as innovation.
 
 ---
-
-[← Back to Portfolio Home](index.md)
