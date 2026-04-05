@@ -36,4 +36,10 @@ I build AI-driven solutions that simplify complex problems and make technology m
     <a href="artifact/artifact3" class="artifact-btn">Read Report</a>
   </div>
 
+  <div class="artifact-card">
+    <h3>📜 AI Evolution Timeline</h3>
+    <p>A visual overview of the history of artificial intelligence, highlighting major milestones, breakthroughs, and shifts that shaped AI from its early foundations to modern generative systems.</p>
+    <a href="artifact/ai-timeline/ai-evolution-timeline" class="artifact-btn">View Timeline</a>
+  </div>
+
 </div>
