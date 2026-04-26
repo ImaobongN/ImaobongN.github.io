@@ -1,9 +1,5 @@
 ---
 layout: default
-title: AI Ethics – Deepfake Voice Scams
----
----
-layout: default
 title: Artifact 5 – 🧠 AI Ethics: Deepfake Voice Scams  
 ---
 
