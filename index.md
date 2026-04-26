@@ -42,4 +42,10 @@ I build AI-driven solutions that simplify complex problems and make technology m
     <a href="artifact/artifact4" class="artifact-btn">View Timeline</a>
   </div>
 
+  <div class="artifact-card">
+    <h3>🧠 AI Ethics: Deepfake Voice Scams</h3>
+    <p>An interactive case study exploring how AI-generated voice deepfakes impact trust, identity, and security, supported by visual diagrams and real-world ethical analysis.</p>
+    <a href="artifact/artifact5" class="artifact-btn">Read Report</a>
+  </div>
+
 </div>
