@@ -14,172 +14,159 @@ title: Artifact 5 – 🧠 AI Ethics: Deepfake Voice Scams
 
 ---
 
-## Introduction
+## 🔍 Introduction
 
-Artificial intelligence is rapidly transforming how we communicate, but it is also creating new ethical risks. One major concern is the rise of **AI voice deepfake scams**, where scammers use artificial intelligence to copy someone’s voice and trick people into sending money, sharing sensitive information, or believing false information.
+Artificial intelligence is rapidly transforming how we communicate, but it is also creating new ethical risks. One major concern is the rise of **AI voice deepfake scams**, where scammers use AI to replicate voices and manipulate victims into sending money or sharing sensitive information.
 
-This artifact explores how AI voice cloning challenges trust, identity, and human judgment. It also highlights practical ways organizations and individuals can reduce risk.
-
----
-
-## Description
-
-This artifact analyzes AI voice deepfake scams through three ethical issues:
-
-1. Identity theft and misuse of personal data  
-2. Misinformation and manipulation  
-3. Limitations of human judgment in detecting fake audio  
-
-The goal is to show that deepfake scams are not only a technical issue. They are also a human-centered issue involving trust, security, awareness, and responsible AI design.
+This artifact explores how this technology challenges trust, identity, and human judgment.
 
 ---
 
-## Objective
+## 📖 Description
 
-The objective of this artifact is to:
+This artifact analyzes AI voice deepfake scams through three key ethical issues:
 
-- Examine the ethical risks associated with AI voice cloning  
-- Explain how deepfake audio can affect trust and decision-making  
-- Identify practical safeguards for reducing misuse  
-- Connect AI ethics to real-world cybersecurity and social impact  
+- Identity theft and misuse of personal data  
+- Misinformation and manipulation  
+- Limitations of human judgment in detecting fake audio  
+
+It highlights that this is not just a technical issue, but a human-centered problem involving trust and behavior.
 
 ---
 
-## Visual Overview
+## 🎯 Objective
 
-<a href="/assets/deepfake-growth-chart.png" target="_blank">
-  <img src="/assets/deepfake-growth-chart.png" alt="Chart showing rising risk of AI voice deepfake scams" width="700">
+- Understand ethical risks of AI voice cloning  
+- Analyze impact on trust and decision-making  
+- Explore mitigation strategies  
+
+---
+
+## 📊 Visual Overview
+
+<a href="assets/deepfake-growth-chart.png" target="_blank">
+  <img src="assets/deepfake-growth-chart.png" width="700">
 </a>
 
-*Figure 1. AI voice deepfake scams are becoming a growing concern as voice cloning tools become easier to access.*
+*Figure 1. AI voice deepfake scams are increasing as voice cloning becomes more accessible.*
 
 ---
 
-## Process
+## ⚙️ Process
 
-### Step 1: Understanding How Voice Cloning Works
+### 🔐 Step 1: Identity Theft
 
-<a href="/assets/voice-cloning-diagram.png" target="_blank">
-  <img src="/assets/voice-cloning-diagram.png" alt="Diagram explaining the AI voice cloning process" width="700">
+<a href="assets/voice-cloning-diagram.png" target="_blank">
+  <img src="assets/voice-cloning-diagram.png" width="700">
 </a>
 
-A scammer may only need a short voice sample from a video, voicemail, podcast, or social media post. AI can then learn the person’s speech patterns and generate a fake message that sounds familiar and trustworthy.
+Voice cloning allows attackers to recreate a person’s voice using short audio samples.
 
 <details>
-<summary><strong>Select to reveal ethical concern</strong></summary>
+<summary><strong>Select to reveal insight</strong></summary>
 
-This creates an identity problem. Voice is personal, but AI makes it possible to separate the voice from the real person. That weakens trust in voice-based verification and everyday communication.
+Voice is a trusted form of identity. When AI can replicate it, traditional verification methods become unreliable.
 
 </details>
 
 ---
 
-### Step 2: Analyzing Misinformation and Manipulation
+### 🧩 Step 2: Misinformation
 
-<a href="/assets/misinformation-flow.png" target="_blank">
-  <img src="/assets/misinformation-flow.png" alt="Flow diagram showing how deepfake misinformation spreads" width="700">
+<a href="assets/misinformation-flow.png" target="_blank">
+  <img src="assets/misinformation-flow.png" width="700">
 </a>
 
-Deepfake audio can move quickly through social media, messaging platforms, and phone calls. Because people naturally trust familiar voices, fake audio can influence beliefs before anyone verifies whether it is real.
+Deepfake audio spreads quickly because it sounds real and familiar.
 
 <details>
-<summary><strong>Select to reveal mitigation strategy</strong></summary>
+<summary><strong>Select to reveal insight</strong></summary>
 
-Platforms should invest in deepfake detection tools and clear labeling. Individuals should also verify urgent or emotional messages through another trusted communication channel before acting.
+People are more likely to trust audio than text, making misinformation harder to detect.
 
 </details>
 
 ---
 
-### Step 3: Recognizing the Detection Gap
+### ⚠️ Step 3: Detection Gap
 
-<a href="/assets/human-vs-ai-detection.png" target="_blank">
-  <img src="/assets/human-vs-ai-detection.png" alt="Chart comparing human judgment and AI-assisted detection" width="700">
+<a href="assets/human-vs-ai-detection.png" target="_blank">
+  <img src="assets/human-vs-ai-detection.png" width="700">
 </a>
 
-One assumption I had at first was that fake audio would be easy to detect. However, research shows that people are not always reliable at identifying deepfake audio. As the technology becomes more convincing, human judgment alone is not enough.
+Humans are not as effective at detecting deepfake audio as expected.
 
 <details>
-<summary><strong>Select to reveal key takeaway</strong></summary>
+<summary><strong>Select to reveal insight</strong></summary>
 
-Deepfake detection should combine human awareness with technical safeguards. AI-assisted detection tools can help flag suspicious audio, but people still need training and verification habits.
+AI-assisted detection tools are needed to support human judgment.
 
 </details>
 
 ---
 
-## Tools and Technologies Used
+## 🛠 Tools and Technologies Used
 
-- Machine learning  
-- Natural language processing  
-- Voice cloning and audio synthesis  
-- Deepfake detection algorithms  
-- Cybersecurity awareness strategies  
-- Visual communication through charts and diagrams  
+- Machine Learning  
+- Natural Language Processing  
+- Voice Cloning Models  
+- Deepfake Detection Systems  
 
 ---
 
-## Value Proposition
+## 💡 Value Proposition
 
-This artifact helps explain why AI ethics matters in everyday life. It shows how one AI capability, voice cloning, can create risks for individuals, businesses, and society.
-
-The value of this artifact is that it translates a complex AI issue into a practical, visual case study that can help viewers understand:
-
-- Why voice-based trust is vulnerable  
-- How deepfake scams manipulate human behavior  
-- Why detection and verification tools are necessary  
-- How ethical AI requires both technical and human safeguards  
+This artifact demonstrates how AI can disrupt trust and create new security risks. It provides a clear, visual explanation of a real-world problem and highlights the need for better safeguards.
 
 ---
 
-## Unique Value
+## ✨ Unique Value
 
-This artifact stands out because it focuses on the intersection of **technology, behavior, and ethics**. Rather than only explaining how deepfakes work, it explores why people fall for them and what safeguards can reduce harm.
-
-<a href="/assets/impact-chart.png" target="_blank">
-  <img src="/assets/impact-chart.png" alt="Chart showing the main impact areas of AI voice deepfakes" width="700">
-</a>
-
-*Figure 2. AI voice deepfakes can affect fraud, identity trust, misinformation, and cybersecurity.*
+This work stands out by combining:
+- Technical understanding of AI systems  
+- Human-centered ethical analysis  
+- Visual storytelling to explain complex concepts  
 
 ---
 
-## Relevance
+## 🌍 Relevance
 
-This topic is relevant because AI-generated content is becoming more realistic and more accessible. As AI continues to develop, organizations will need stronger security policies, detection tools, and ethical guidelines.
-
-This artifact connects to:
-
-- AI ethics  
+This topic is important for:
 - Cybersecurity  
-- Digital identity  
-- Misinformation prevention  
-- Responsible AI governance  
+- AI governance  
+- Business risk management  
+- Digital identity systems  
+
+<a href="assets/impact-chart.png" target="_blank">
+  <img src="assets/impact-chart.png" width="700">
+</a>
+
+*Figure 2. AI voice deepfakes impact fraud, trust, and security.*
 
 ---
 
-## Reflection
+## 🧠 Reflection
 
 <details>
 <summary><strong>Select to reveal reflection</strong></summary>
 
-At the beginning of this assignment, I saw deepfake scams mainly as a technical issue that could be solved with better tools. As I worked through the analysis, I realized the issue is much bigger. It involves trust, human behavior, and how easily people can be influenced when technology feels familiar.
+At first, I saw deepfake scams as mainly a technical issue. However, this analysis showed that the real challenge lies in trust, human behavior, and misuse.
 
-One assumption I had was that better AI automatically means better outcomes. Now I understand that AI can solve problems, but it can also create new risks if it is not handled carefully.
+One assumption I had was that better AI always leads to better outcomes. I now understand that without safeguards, AI can introduce new risks.
 
-Going forward, I will pay closer attention to misuse scenarios when thinking about AI development. I also see the importance of building safeguards instead of relying too much on human oversight, especially in situations where mistakes can have serious consequences.
+Going forward, I will consider both functionality and potential misuse when working with AI systems.
 
 </details>
 
 ---
 
-## References
+## 📚 References
 
 McAfee. *A Guide to Deepfake Scams and AI Voice Spoofing.*  
-https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/
+https://www.mcafee.com/learn/a-guide-to-deepfake-scams-and-ai-voice-spoofing/  
 
-Zhang, B., Cui, H., Nguyen, V., & Whitty, M. (2025). *Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead.* Sensors, 25(7), 1989.  
-https://doi.org/10.3390/s25071989
+Zhang, B., Cui, H., Nguyen, V., & Whitty, M. (2025).  
+*Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead.*  
+https://doi.org/10.3390/s25071989  
 
 ---
-
