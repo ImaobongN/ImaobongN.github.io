@@ -183,7 +183,3 @@ https://doi.org/10.3390/s25071989
 
 ---
 
-## Back to Portfolio
-
-[← Return to Artifacts](../)
-
