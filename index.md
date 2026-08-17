@@ -48,4 +48,10 @@ I build AI-driven solutions that simplify complex problems and make technology m
     <a href="artifact/artifact5" class="artifact-btn">Read Report</a>
   </div>
 
+  <div class="artifact-card">
+    <h3>🧠 AIML-505 AI Portfolio Project</h3>
+    <p>A portfolio-ready AI project demonstrating practical AI application, strategic thinking, responsible AI considerations, and the ability to translate AI concepts into meaningful solutions.</p>
+    <a href="artifact/artifact6" class="artifact-btn">Read Report</a>
+  </div>
+
 </div>
