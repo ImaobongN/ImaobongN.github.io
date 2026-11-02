@@ -54,4 +54,20 @@ I build AI-driven solutions that simplify complex problems and make technology m
     <a href="artifact/artifact6" class="artifact-btn">Read Report</a>
   </div>
 
+  
+<div class="artifact-card">
+  <h3>🧠 Machine Learning Algorithm Atlas</h3>
+  <p>
+    An interactive visual framework comparing 10 machine
+    learning algorithms across supervised learning,
+    unsupervised learning, computer vision, natural
+    language processing, and generative AI.
+    Includes real-world applications, model selection
+    guidance, and a personal learning reflection.
+  </p>
+  <a href="artifact/artifact7" class="artifact-btn">
+    Explore Algorithms
+  </a>
+</div>
+
 </div>
